@@ -1,3 +1,2 @@
-
-var x = 2 raise 10;
+var x = 2 ^^ 10;
 console.log(x)
